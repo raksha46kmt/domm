@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO8859-1" ?>
+<webpagedevelop>
+	<events>
+		<contact>Swetha@gm.in</contact>
+		<event>Birthday</event>
+	</events>
+	<events>
+		<contact>Varun@gm.in</contact>
+		<event>Party</event>
+	</events>
+	<events>
+		<contact>virat@gm.in</contact>
+		<event>Wedding</event>
+	</events>
+	</events>
+	<events>
+		<contact>Priyank@gm.in</contact>
+		<event>Haldi</event>
+	</events>
+	<events>
+		<contact>Moksha@gm.in</contact>
+		<event>Night Party</event>
+	</events>
+</webpagedevelop>
